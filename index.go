@@ -13,6 +13,9 @@ func main() {
 		fmt.Println(i)
 		i++
 	}
+
+	const pi = 3.14
+	fmt.Println("Pi is", pi)
 	
 
 
