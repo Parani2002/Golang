@@ -16,6 +16,9 @@ func main() {
 
 	const pi = 3.14
 	fmt.Println("Pi is", pi)
+	amount := 1000;
+	tempretureFloat := float64(amount)
+	fmt.Println("Amount is", tempretureFloat)
 	
 
 
